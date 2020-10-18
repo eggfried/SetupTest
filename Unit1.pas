@@ -11,6 +11,7 @@ type
     Button1: TButton;
     Edit1: TEdit;
     Edit2: TEdit;
+    Edit3: TEdit;
     procedure Button1Click(Sender: TObject);
   private
     { Private declarations }
