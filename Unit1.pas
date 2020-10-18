@@ -1,5 +1,5 @@
-unit Unit1;
-       //±ê Çé Å×½ºÆ®2
+ï»¿unit Unit1;
+       //ê¹ƒ í—™ í…ŒìŠ¤íŠ¸2
 interface
 
 uses
