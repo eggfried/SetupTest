@@ -30,4 +30,12 @@ object Form1: TForm1
     TabOrder = 1
     Text = 'Edit1'
   end
+  object Edit2: TEdit
+    Left = 208
+    Top = 144
+    Width = 121
+    Height = 21
+    TabOrder = 2
+    Text = 'Edit2'
+  end
 end
